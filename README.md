@@ -8,17 +8,15 @@ ______
 * เพื่อตรวจสอบสภาพแวดล้อมภายในบ้าน จากที่ไหนก็ได้ผ่านทางโทรศัพท์มือถือ หรือ อุปกรณ์ที่สามารถเข้าเว็บได้ (Webbased)
 * ทำให้ผู้ใช้รับรู้ถึงสภาพแวดล้อมภายในบ้าน และพิจารณาว่าควรจัดการกับสิ่งของบ้านอย่าง
 ______
-
-# Setting
+# Settings
 * ตั้งค่า WiFi โดยการใส่ SSID และ PASSWORD ไว้ในไฟล์ NodeMCU.ino และอัพโหลดขึ้นบอร์ด
 * ตั้งค่า Firebase โดยการใส่ FIREBASE_HOST และ FIREBASE_AUTH ไว้ในไฟล์  NodeMCU.ino และทำการอัพโหลดขึ้นบอร์ดเช่นเดียวกัน<br>
 ![](README/wifi.PNG)
 * ทำการใส่ Config ของ firebase ลงไปในไฟล์ firebase.js
 ![](README/firebase.PNG)
 ______
-# Presentation Videos
+# Presentation Video
 [![Click here for Youtube Video.](https://img.youtube.com/vi/uX0R2yFPidw/0.jpg)](https://www.youtube.com/watch?v=uX0R2yFPidw)
-
 ______
 # Features
 * Dashboard แสดงผลค่าสถานะต่างๆ ที่ตรวจสอบได้
