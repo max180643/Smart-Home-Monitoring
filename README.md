@@ -11,18 +11,19 @@ ______
 
 # Setting
 * ตั้งค่า WiFi โดยการใส่ SSID และ PASSWORD ไว้ในไฟล์ NodeMCU.ino และอัพโหลดขึ้นบอร์ด
-* ตั้งค่า Firebase โดยการใส่ FIREBASE_HOST และ FIREBASE_AUTH ไว้ในไฟล์  NodeMCU.ino และทำการอัพโหลดขึ้นบอร์ดเช่นเดียวกัน
-![](README/wifi.png)
+* ตั้งค่า Firebase โดยการใส่ FIREBASE_HOST และ FIREBASE_AUTH ไว้ในไฟล์  NodeMCU.ino และทำการอัพโหลดขึ้นบอร์ดเช่นเดียวกัน<br>
+![](README/wifi.PNG)
 * ทำการใส่ Config ของ firebase ลงไปในไฟล์ firebase.js
-![](README/firebase.png)
+![](README/firebase.PNG)
 ______
 # Features
 * Dashboard แสดงผลค่าสถานะต่างๆ ที่ตรวจสอบได้
 * Real Time Graph แสดงค่าสถานะของอุณหภูมิ & ความชื้น
-* Settings สามารถปรับเปลี่ยนค่าต่างๆ รวมทั้งการแสดงผลแบบ Real time หรือ ตามที่ต้องการก็ได้
-* Line Notify แจ้งเตือนสถานะต่างๆ โดยไม่ต้องเข้าเว็บไซด์
 ![](README/web1.png)
+* Settings สามารถปรับเปลี่ยนค่าต่างๆ รวมทั้งการแสดงผลแบบ Real time หรือ ตามที่ต้องการก็ได้
 ![](README/web2.jpg)
+* Line Notify แจ้งเตือนสถานะต่างๆ โดยไม่ต้องเข้าเว็บไซด์
+![](README/web3.jpg)
 
 ______
 # Team Member
