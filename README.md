@@ -17,6 +17,8 @@ ______
 ______
 # Presentation Video
 [![Click here for Youtube Video.](https://img.youtube.com/vi/uX0R2yFPidw/0.jpg)](https://www.youtube.com/watch?v=uX0R2yFPidw)
+
+https://youtu.be/uX0R2yFPidw
 ______
 # Features
 * Dashboard แสดงผลค่าสถานะต่างๆ ที่ตรวจสอบได้
