@@ -16,6 +16,10 @@ ______
 * ทำการใส่ Config ของ firebase ลงไปในไฟล์ firebase.js
 ![](README/firebase.PNG)
 ______
+# Presentation Videos
+[![Click here for Youtube Video.](https://img.youtube.com/vi/uX0R2yFPidw/0.jpg)](https://www.youtube.com/watch?v=uX0R2yFPidw)
+
+______
 # Features
 * Dashboard แสดงผลค่าสถานะต่างๆ ที่ตรวจสอบได้
 * Real Time Graph แสดงค่าสถานะของอุณหภูมิ & ความชื้น
