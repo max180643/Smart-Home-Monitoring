@@ -31,7 +31,9 @@ ______
 ![](README/web3.PNG)
 ______
 # NodeMCU
-![](README/iot1.jpg)![](README/iot2.jpg)
+|![](README/iot1.jpg)|![](README/iot2.jpg)|
+|:-----:|:-----:|
+|Unpowered|Powered|
 ______
 # Team Member
 |<img src="README/hashtagSELFIE.jpeg" width="150px" height="150px">|<img src="README/chattida.jpg" width="150px" height="150px">|<img src="README/max180643.jpg" width="150px" height="150px">|<img src="README/NAPATKRUP.jpeg" width="150px" height="150px">|
