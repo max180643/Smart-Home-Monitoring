@@ -23,7 +23,7 @@ ______
 * Settings สามารถปรับเปลี่ยนค่าต่างๆ รวมทั้งการแสดงผลแบบ Real time หรือ ตามที่ต้องการก็ได้
 ![](README/web2.jpg)
 * Line Notify แจ้งเตือนสถานะต่างๆ โดยไม่ต้องเข้าเว็บไซด์
-![](README/web3.jpg)
+![](README/web3.PNG)
 
 ______
 # Team Member
