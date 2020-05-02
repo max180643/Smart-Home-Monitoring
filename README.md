@@ -13,7 +13,7 @@ ______
 * ตั้งค่า WiFi โดยการใส่ SSID และ PASSWORD ไว้ในไฟล์ NodeMCU.ino และอัพโหลดขึ้นบอร์ด
 * ตั้งค่า Firebase โดยการใส่ FIREBASE_HOST และ FIREBASE_AUTH ไว้ในไฟล์  NodeMCU.ino และทำการอัพโหลดขึ้นบอร์ดเช่นเดียวกัน<br>
 ![](README/wifi.PNG)
-* ทำการใส่ Config ของ firebase ลงไปในไฟล์ firebase.js
+* ทำการใส่ Config ของ firebase ลงไปในไฟล์ firebase.js  
 ![](README/firebase.PNG)
 ______
 # Presentation Video
